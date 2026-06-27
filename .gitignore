@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Checkpoints
+checkpoints/
+*.pth
+
+# Outputs
+outputs/
+
+# TensorBoard
+runs/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+dataset/
+test_dataset.py
