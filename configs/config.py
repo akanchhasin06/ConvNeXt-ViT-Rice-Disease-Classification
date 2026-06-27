@@ -1,0 +1,14 @@
+IMAGE_SIZE = 224
+BATCH_SIZE = 16
+NUM_EPOCHS = 50
+LEARNING_RATE = 0.001
+
+NUM_WORKERS = 2
+
+DEVICE = "cuda"
+
+MODEL_NAME = "ConvNeXt-ViT"
+
+CHECKPOINT_DIR = "checkpoints"
+
+OUTPUT_DIR = "outputs"
