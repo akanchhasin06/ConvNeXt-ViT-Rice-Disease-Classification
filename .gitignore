@@ -29,3 +29,16 @@ Thumbs.db
 
 dataset/
 test_dataset.py
+
+# Dataset
+dataset/
+
+# Temporary testing files
+test_dataset.py
+
+# Model weights
+*.pth
+
+# Training outputs
+outputs/
+checkpoints/
